@@ -2,23 +2,23 @@
 
 ## SAID MARATOV
 
-### CONTACT INFORMATION
+### Contact Information
 
-- E-mail: maratov.said@gmail.com
-- Telegram: @himynameissaid
-- Discord: Said_Maratov#8914
+- **E-mail: maratov.said@gmail.com**
+- **Telegram: @himynameissaid**
+- **Discord: Said_Maratov#8914**
 
-### SUMMARY 
- I am passionate for new knowledge and development. My main goal is to change my profession from the one that I never liked to the one in which I began to show interest a long time ago.
+### Summary
+ **I am passionate for new knowledge and development. My main goal is to change my profession from the one that I never liked to the one in which I began to show interest a long time ago.**
 
-### SKILLS
- - Golang
- - JavaScript
- - Python
- - Docker
- - SQL
+### Skills
+ - **Golang**
+ - **JavaScript**
+ - **Python**
+ - **Docker**
+ - **SQL**
 
-### EDUCATION
+### Education
 
 1. **Saint Petersburg State Marine University. 2013-2017**
 
@@ -28,11 +28,11 @@
 
 4. **Stepic: "Поколение Python": курс для начинающих**
 
-### LANGUAGES
+### Languages
  
- - Kazakh - native
- - Russian - native
- - English - B2
- - Polish - B1
+ - **Kazakh - native**
+ - **Russian - native**
+ - **English - B2**
+ - **Polish - B1**
  
  
