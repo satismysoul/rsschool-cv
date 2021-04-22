@@ -20,7 +20,7 @@
 
 ### Education
 
-1. **Saint Petersburg State Marine University. 2013-2017**
+1. **Saint Petersburg Marine State University. 2013-2017**
 
 2. **Warsaw State University 2018-2019**
 
